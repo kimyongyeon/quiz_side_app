@@ -1,0 +1,3 @@
+class Util {
+    localStorageSave(json:)
+}
